@@ -1,11 +1,12 @@
 {
   "name": "@cosmicdynamo/auto-import",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "requires files based on a glob pattern",
   "main": "auto-import.js",
   "scripts": {},
   "keywords": [],
   "author": "CosmicDynamo",
+  "repository": "https://github.com/CosmicDynamo/phoenix",
   "license": "MIT",
   "devDependencies": {},
   "dependencies": {

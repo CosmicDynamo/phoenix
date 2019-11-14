@@ -1,0 +1,27 @@
+{
+  "name": "phoenix",
+  "version": "0.1.0",
+  "description": "A collection of JavaScript utilitys that I find myself re-writing repeatedly",
+  "main": " ",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint .",
+    "whois": "node whois.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CosmicDynamo/phoenix.git"
+  },
+  "author": "CosmicDynamo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CosmicDynamo/phoenix/issues"
+  },
+  "homepage": "https://github.com/CosmicDynamo/phoenix#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-plugin-jest": "^23.0.3",
+    "jest": "^24.9.0"
+  },
+  "dependencies": {}
+}

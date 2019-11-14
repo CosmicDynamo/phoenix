@@ -1,0 +1,15 @@
+{
+  "name": "@cosmicdynamo/auto-import",
+  "version": "1.0.0",
+  "description": "requires files based on a glob pattern",
+  "main": "auto-import.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "CosmicDynamo",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "glob": "^7.1.6"
+  },
+  "private": false
+}
